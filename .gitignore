@@ -1,0 +1,5 @@
+.vscode
+.vscode/*
+audio
+audio/*
+*.zip
